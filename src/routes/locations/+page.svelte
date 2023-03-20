@@ -1,0 +1,3 @@
+<div>
+    locations page
+</div>

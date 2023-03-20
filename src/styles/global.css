@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+      max-width: 576px;
+      margin: 0 auto;
+      font-family: 'Source Sans Pro', sans-serif;
+    }
+    body {
+      width: 100%;
+    }
+  }
